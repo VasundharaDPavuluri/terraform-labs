@@ -133,6 +133,8 @@ AMI in Mumbai ≠ AMI in Oregon
 
 Always copy AMI from the target region.
 
+Go to EC2 in target region --> Launch Instance -> Select AMI (Linux/Ubuntu) --> Copy the AMI 
+
 ---
 
 # Implementation Steps
