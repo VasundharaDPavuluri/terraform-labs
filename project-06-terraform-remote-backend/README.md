@@ -351,7 +351,8 @@ local Terraform state
 ### S3 bucket created
 <img width="1919" height="535" alt="s3-bucket" src="https://github.com/user-attachments/assets/198a5f32-87f6-41af-958b-aa422d113f5f" />
 
-Dynamodb Table created
+
+### Dynamodb Table created
 <img width="1919" height="300" alt="dynamodb-table" src="https://github.com/user-attachments/assets/edb26556-1481-4ea5-813a-901c26a8465b" />
 
 ---
@@ -404,6 +405,7 @@ Terraform migrates:
 local state → S3 backend
 ```
 
+### Screenshot: Backend Migration Initialization
 <img width="1297" height="516" alt="terraform-apply-backend-create" src="https://github.com/user-attachments/assets/7f2f0179-21b9-4e93-8f60-57a223f88d21" />
 
 ---
@@ -427,6 +429,8 @@ backend.tfstate
 
 exists.
 
+### Screenshot: AWS Console
+
 <img width="1919" height="502" alt="key-in-s3" src="https://github.com/user-attachments/assets/76923ab6-b334-422a-b5ee-9a66fa33bb4b" />
 
 
@@ -447,6 +451,7 @@ LockID
 
 entry exists.
 
+### Screenshot: AWS Console
 <img width="1893" height="710" alt="key-in-dynamodb" src="https://github.com/user-attachments/assets/53278a49-ff26-4a87-b0c8-1baccddbd3a7" />
 
 ---
@@ -472,6 +477,7 @@ Terraform displays:
 
 Useful for backend verification.
 
+### Screenshot for reference:
 <img width="909" height="298" alt="terraform-apply-tfstate" src="https://github.com/user-attachments/assets/f77efe2f-ea61-4fa0-a5fc-874233d9b4c9" />
 
 ---
