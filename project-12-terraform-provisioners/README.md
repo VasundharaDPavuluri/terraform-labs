@@ -471,11 +471,6 @@ Welcome to nginx
 ```
 
 ---
-
-# Screenshots
-
----
-
 # AWS Infrastructure Screenshots
 
 Add screenshots for:
@@ -485,38 +480,26 @@ Add screenshots for:
 - Internet Gateway
 - Security Group
 - EC2 Instance
-
-```text
-[ Add AWS Console Screenshots Here ]
-```
-
+- Terraform Apply Output
+  
 ---
-
-# Terraform Apply Output
-
-Add screenshot showing:
-- remote-exec execution
-- SSH connection
-- nginx installation
-
-```text
-[ Add Terraform Console Output Screenshot Here ]
-```
-
+<img width="1919" height="392" alt="Screenshot 2026-05-19 182549" src="https://github.com/user-attachments/assets/42de88fc-bbec-410b-9a88-3bb8715d1f93" />
 ---
-
-# NGINX Verification
-
-Add screenshot showing:
-```text
-Welcome to nginx
-```
-
-page from browser.
-
-```text
-[ Add NGINX Browser Screenshot Here ]
-```
+<img width="1908" height="722" alt="Screenshot 2026-05-19 182626" src="https://github.com/user-attachments/assets/a90c5704-34eb-4914-903c-24173d664ea6" />
+---
+<img width="1917" height="312" alt="Screenshot 2026-05-19 180948" src="https://github.com/user-attachments/assets/75b67147-03d1-4140-b241-84f4a05fced2" />
+---
+<img width="1902" height="526" alt="Screenshot 2026-05-19 180959" src="https://github.com/user-attachments/assets/1fbe92fe-6d8a-41ed-b170-2031127ebd76" />
+---
+<img width="1900" height="235" alt="Screenshot 2026-05-19 181011" src="https://github.com/user-attachments/assets/904ce905-7d3b-45b8-b061-c41ded389d4f" />
+---
+<img width="1040" height="884" alt="Screenshot 2026-05-19 182156" src="https://github.com/user-attachments/assets/e787537a-bc48-4915-a611-1fbcc8424f7a" />
+---
+<img width="931" height="928" alt="Screenshot 2026-05-19 182203" src="https://github.com/user-attachments/assets/017c12fe-01ea-4af4-9da6-1d3e2a766d00" />
+---
+<img width="1318" height="587" alt="Screenshot 2026-05-19 182211" src="https://github.com/user-attachments/assets/04bdb81e-a966-4937-bafb-52f2288cbd34" />
+---
+<img width="1460" height="541" alt="Screenshot 2026-05-19 182123" src="https://github.com/user-attachments/assets/513d70a5-8bce-4f18-a8e8-46a756b38471" />
 
 ---
 
