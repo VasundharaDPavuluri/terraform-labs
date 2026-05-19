@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Terraform Variables
+*.tfvars
+
+# Sensitive Files
+*.pem
+
+# Terraform Lock File
+.terraform.lock.hcl
