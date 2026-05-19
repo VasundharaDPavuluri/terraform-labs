@@ -587,9 +587,13 @@ terraform apply
 ---
 
 # Console Outputs & AWS services creation
-
-=============ADD SCREENSHOTS================
-
+<img width="1918" height="417" alt="Screenshot 2026-05-19 114835" src="https://github.com/user-attachments/assets/74bc8a96-6525-4b22-b416-cd7517210549" />
+<img width="1916" height="788" alt="Screenshot 2026-05-19 114913" src="https://github.com/user-attachments/assets/8131cfee-aa88-410a-b317-9681f94cf447" />
+<img width="719" height="455" alt="Screenshot 2026-05-19 113829" src="https://github.com/user-attachments/assets/f5154e84-e1de-47b2-a6ea-2ed3c951f2a9" />
+<img width="1918" height="358" alt="Screenshot 2026-05-19 114718" src="https://github.com/user-attachments/assets/626df24c-1141-477e-9419-e225463b8b39" />
+<img width="1919" height="249" alt="Screenshot 2026-05-19 114740" src="https://github.com/user-attachments/assets/10f4d634-6514-4b76-ba9c-121ab45fcda2" />
+<img width="1919" height="314" alt="Screenshot 2026-05-19 114754" src="https://github.com/user-attachments/assets/4123f08a-2b9b-4c2a-b0eb-12db540d3dc5" />
+<img width="975" height="762" alt="Screenshot 2026-05-19 113814" src="https://github.com/user-attachments/assets/b4c7788b-a914-4662-8d1e-06bb4f558ab3" />
 
 ---
 
