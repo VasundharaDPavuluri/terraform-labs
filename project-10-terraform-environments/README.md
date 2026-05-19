@@ -491,6 +491,29 @@ Terraform displays:
 - Security Group ID
 - EC2 Public IP
 - EC2 Public DNS
+---
+## Dev Env
+### AWS - VPC Created - dev
+<img width="1897" height="692" alt="Screenshot 2026-05-18 224335" src="https://github.com/user-attachments/assets/2bf07136-406d-4e8f-9059-f7530ba435e5" />
+
+### AWS - Security Group Created - dev
+<img width="1919" height="260" alt="Screenshot 2026-05-18 224346" src="https://github.com/user-attachments/assets/ac9265a5-1eca-490a-aca7-5b56d1628664" />
+
+### AWS - Instance Created - dev
+<img width="1919" height="198" alt="Screenshot 2026-05-18 224358" src="https://github.com/user-attachments/assets/a93edf3a-9dcc-4aa8-b633-abb37b8c0190" />
+
+## QA Env
+### AWS - VPC Creared - qa
+<img width="1919" height="669" alt="Screenshot 2026-05-18 231906" src="https://github.com/user-attachments/assets/08e96424-ed55-4b94-85aa-200ed838d277" />
+
+### AWS - Security Group created - qa
+<img width="1919" height="228" alt="Screenshot 2026-05-18 231917" src="https://github.com/user-attachments/assets/fa978683-ccad-4fa3-ae67-071a9d7391e4" />
+
+### AWS - Instance created - qa
+<img width="1919" height="310" alt="Screenshot 2026-05-18 232238" src="https://github.com/user-attachments/assets/09a8d5fb-10d1-404a-af4b-2ee930a3305c" />
+
+#### Note: 
+I have reused project-09 scripts for this project-10, so services names are still project-09.
 
 ---
 
