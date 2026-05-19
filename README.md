@@ -1,4 +1,4 @@
-# Terraform Labs Basic
+# Terraform Labs
 
 This repository contains beginner-to-intermediate Terraform hands-on projects focused on AWS Infrastructure as Code (IaC).
 
@@ -41,7 +41,7 @@ This repository is created for learning and practicing:
 # Repository Structure
 
 ```text
-terraform-labs-basic/
+terraform-labs/
 │
 ├── terraform-basic-handson/
 ├── terraform-vpc-handson/
