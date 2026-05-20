@@ -16,7 +16,7 @@ The hands-on covers:
 # Architecture Flow
 
 ```text
-Laptop
+System/PC
   ↓
 Terraform + AWS CLI
   ↓
