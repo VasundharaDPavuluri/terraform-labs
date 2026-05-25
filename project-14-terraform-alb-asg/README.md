@@ -664,56 +664,18 @@ This is important realtime production behavior.
 # Screenshots
 
 ---
-
-# AWS Infrastructure Screenshots
-
-Add screenshots for:
-- VPC
-- Subnets
-- ALB
-- Target Group
-- ASG
-- EC2 Instances
-
-```text
-[ Add AWS Console Screenshots Here ]
-```
-
----
-
 # Terraform Console Output
-
-Add screenshots for:
-- terraform init
-- terraform plan
 - terraform apply
-
-```text
-[ Add Terraform Output Screenshots Here ]
-```
-
----
+<img width="1492" height="279" alt="Screenshot 2026-05-25 184355" src="https://github.com/user-attachments/assets/46d5a9ae-f436-4448-a6a3-1ce2f4079951" />
 
 # ALB Verification
-
-Add screenshot showing:
 - ALB DNS
 - webpage response
-
-```text
-[ Add ALB Browser Screenshot Here ]
-```
-
----
+<img width="1095" height="294" alt="Screenshot 2026-05-25 184449" src="https://github.com/user-attachments/assets/f2fbff59-8451-4729-abb8-8416af965f35" />
 
 # Instance ID Load Balancing Verification
-
-Add screenshots showing:
 - changing instance IDs after refresh
-
-```text
-[ Add Load Balancing Verification Screenshots Here ]
-```
+<img width="1077" height="377" alt="Screenshot 2026-05-25 184458" src="https://github.com/user-attachments/assets/9118c007-b84c-4600-bf53-6bce42c1d3aa" />
 
 ---
 
