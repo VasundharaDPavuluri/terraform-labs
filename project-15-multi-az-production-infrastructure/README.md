@@ -675,10 +675,6 @@ Add screenshots for:
 - Target Group
 - EC2 Instances
 
-```text
-[ Add AWS Console Screenshots Here ]
-```
-
 ---
 
 # Terraform Console Output
