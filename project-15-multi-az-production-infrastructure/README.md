@@ -664,57 +664,52 @@ Verify:
 ---
 
 # AWS Infrastructure Screenshots
-
-Add screenshots for:
 - VPC
 - Public Subnets
 - Private Subnets
 - NAT Gateway
-- ALB
-- ASG
-- Target Group
-- EC2 Instances
+<img width="1919" height="777" alt="Networking - Resource Map" src="https://github.com/user-attachments/assets/6cf8f9bd-08c9-4b8d-843e-4d05747879c4" />
+<img width="1919" height="177" alt="Screenshot 2026-05-26 180036" src="https://github.com/user-attachments/assets/01613ff1-e1f2-4080-9177-442a8b9fb48c" />
 
-```text
-[ Add AWS Console Screenshots Here ]
-```
+---
+
+- ALB
+<img width="1645" height="658" alt="Screenshot 2026-05-26 180623" src="https://github.com/user-attachments/assets/6858cb91-4efe-4040-a18d-64df31dde457" />
+
+---
+
+- ASG
+<img width="1640" height="204" alt="Screenshot 2026-05-26 180126" src="https://github.com/user-attachments/assets/d568f1f1-9515-42be-a0b7-157e13a89dde" />
+
+---
+
+- Target Group
+<img width="1919" height="177" alt="Screenshot 2026-05-26 180036" src="https://github.com/user-attachments/assets/d7cf4f65-11c0-4f60-bac1-bfb5c51e7f38" />
+
+---
+
+- EC2 Instances
+<img width="1919" height="143" alt="Screenshot 2026-05-26 175934" src="https://github.com/user-attachments/assets/a9048def-1082-48ce-84de-1be32ea720b6" />
+<img width="1643" height="182" alt="Screenshot 2026-05-26 180239" src="https://github.com/user-attachments/assets/d07fbfc1-c6c2-49cc-85c8-eb3e5628d6cc" />
 
 ---
 
 # Terraform Console Output
-
-Add screenshots for:
-- terraform init
-- terraform validate
-- terraform plan
 - terraform apply
-
-```text
-[ Add Terraform Output Screenshots Here ]
-```
+<img width="878" height="324" alt="Screenshot 2026-05-26 175706" src="https://github.com/user-attachments/assets/a5294313-99d0-4664-89da-473382e2f722" />
 
 ---
 
 # ALB Verification
-
-Add screenshots showing:
 - webpage
 - instance ID
-
-```text
-[ Add ALB Browser Screenshots Here ]
-```
+<img width="1039" height="337" alt="Screenshot 2026-05-26 180349" src="https://github.com/user-attachments/assets/b5b47b2d-7eb0-465d-a6be-26c0eb1c2ac6" />
 
 ---
 
 # Load Balancing Verification
-
-Add screenshots showing:
 - changing instance IDs after refresh
-
-```text
-[ Add Load Balancing Verification Screenshots Here ]
-```
+<img width="1100" height="311" alt="Screenshot 2026-05-26 180406" src="https://github.com/user-attachments/assets/7acc3861-8f3e-4388-ab41-e762891f3500" />
 
 ---
 
