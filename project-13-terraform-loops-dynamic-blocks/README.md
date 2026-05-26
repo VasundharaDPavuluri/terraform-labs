@@ -523,52 +523,21 @@ without manually writing multiple ingress blocks.
 ---
 
 # AWS Infrastructure Screenshots
-
-Add screenshots for:
 - VPC
 - subnet
-- Security Group
-- EC2 instances
 - route table
+<img width="1909" height="758" alt="Screenshot 2026-05-25 141931" src="https://github.com/user-attachments/assets/92464166-2f2b-4f9e-8103-073e3df43618" />
 
-```text
-[ Add AWS Console Screenshots Here ]
-```
+- Security Group
+<img width="1919" height="592" alt="Screenshot 2026-05-25 142100" src="https://github.com/user-attachments/assets/b7a5d89b-cab1-4ebd-a9a9-d20a5e6bf71b" />
 
----
-
-# Terraform Console Output
-
-Add screenshots for:
-- terraform init
-- terraform plan
-- terraform apply
-
-```text
-[ Add Terraform Console Output Here ]
-```
+- EC2 instances
+<img width="1919" height="368" alt="Screenshot 2026-05-25 142031" src="https://github.com/user-attachments/assets/05069125-3217-4b71-a787-1535942a19be" />
 
 ---
-
-# Multiple EC2 Verification
-
-Add screenshot showing:
-- 3 EC2 instances running
-
-```text
-[ Add EC2 Running Instances Screenshot Here ]
-```
-
----
-
-# Dynamic Security Group Verification
-
-Add screenshot showing:
-- dynamic ingress rules
-
-```text
-[ Add Security Group Rules Screenshot Here ]
-```
+# Terraform Backend Bootstrap Setup
+<img width="1919" height="371" alt="Screenshot 2026-05-25 142230" src="https://github.com/user-attachments/assets/79d59638-9d06-4bf3-9541-7d3bf08ee58d" />
+<img width="1895" height="752" alt="Screenshot 2026-05-25 142204" src="https://github.com/user-attachments/assets/3cfbbae4-7006-4721-884a-6829793cc4c5" />
 
 ---
 
@@ -620,77 +589,6 @@ Terraform becomes unmaintainable
 ```
 
 at scale.
-
----
-
-# Terraform State Loss Incident (Important Learning)
-
-During this project, backend bootstrap resources were deleted before destroying infrastructure.
-
-This caused:
-```text
-Terraform state loss
-```
-
-Terraform could no longer:
-- track resources
-- destroy infrastructure
-- manage deployed resources
-
-This demonstrated:
-```text
-importance of remote state management
-```
-
----
-
-# Key Learning from State Loss
-
-Terraform state is:
-```text
-Terraform's memory
-```
-
-Without state:
-Terraform becomes:
-```text
-blind to infrastructure
-```
-
-This is why:
-- S3 backend
-- DynamoDB locking
-- backend protection
-
-are critical in enterprise environments.
-
----
-
-# Correct Terraform Destroy Order
-
-Always destroy:
-```text
-infrastructure projects FIRST
-```
-
-Then destroy:
-```text
-backend bootstrap LAST
-```
-
-Correct sequence:
-
-```text
-Project-13
-↓
-Project-12
-↓
-Project-11
-↓
-...
-↓
-Project-07 backend LAST
-```
 
 ---
 
