@@ -30,4 +30,4 @@ max_size = 3
 
 db_username = "admin"
 
-db_password = "Admin@12345"
+db_password = "Admin12345"
