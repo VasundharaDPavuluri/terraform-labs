@@ -501,163 +501,49 @@ After this project, you understand:
 
 ---
 
-# 1. Terraform Init
-
-```text
-[ Add terraform init screenshot here ]
-```
+# 1. Terraform Apply
+<img width="1448" height="289" alt="Screenshot 2026-05-28 154932" src="https://github.com/user-attachments/assets/d2bca10b-a2f2-4048-b889-9be6dfa12bc1" />
 
 ---
 
-# 2. Terraform Validate
-
-```text
-[ Add terraform validate screenshot here ]
-```
+# 2. VPC
+<img width="1919" height="757" alt="Screenshot 2026-05-28 155049" src="https://github.com/user-attachments/assets/d312f7ff-07b8-4194-bbd4-7868927827d4" />
 
 ---
 
-# 3. Terraform Plan
-
-```text
-[ Add terraform plan screenshot here ]
-```
+# 3. Application Load Balancer
+<img width="1911" height="186" alt="Screenshot 2026-05-28 155429" src="https://github.com/user-attachments/assets/2e1e298b-1aa7-4dcb-bea5-f8a3fd9465eb" />
 
 ---
 
-# 4. Terraform Apply
-
-```text
-[ Add terraform apply screenshot here ]
-```
+# 4. Target Group
+<img width="1919" height="176" alt="Screenshot 2026-05-28 155443" src="https://github.com/user-attachments/assets/317966d8-a5a9-4fc5-a9b2-3333fa6991b4" />
 
 ---
 
-# 5. VPC
-
-```text
-[ Add VPC screenshot here ]
-```
+# 5. Auto Scaling Group
+<img width="1854" height="170" alt="Screenshot 2026-05-28 155502" src="https://github.com/user-attachments/assets/c3d36d8c-b05e-4087-90fb-09b539f79fab" />
 
 ---
 
-# 6. Public Subnets
-
-```text
-[ Add public subnet screenshots here ]
-```
+# 6. EC2 Instances
+<img width="1919" height="251" alt="Screenshot 2026-05-28 155649" src="https://github.com/user-attachments/assets/b753e65c-1931-4b70-b68e-fcaeccb4449d" />
 
 ---
 
-# 7. Private App Subnets
-
-```text
-[ Add private app subnet screenshots here ]
-```
+# 7. RDS Database 
+<img width="1917" height="564" alt="Screenshot 2026-05-28 160338" src="https://github.com/user-attachments/assets/e7ee8bcd-fbdb-42c2-8027-b7f2c86cd6be" />
 
 ---
 
-# 8. Private DB Subnets
+# 8. Browser Output
+<img width="1175" height="271" alt="Screenshot 2026-05-28 155901" src="https://github.com/user-attachments/assets/72080a26-5e61-4784-bff4-67c1484ba887" />
 
-```text
-[ Add private DB subnet screenshots here ]
-```
 
 ---
 
-# 9. NAT Gateway
-
-```text
-[ Add NAT Gateway screenshot here ]
-```
-
----
-
-# 10. Route Tables
-
-```text
-[ Add route table screenshots here ]
-```
-
----
-
-# 11. Application Load Balancer
-
-```text
-[ Add ALB screenshot here ]
-```
-
----
-
-# 12. Target Group
-
-```text
-[ Add Target Group screenshot here ]
-```
-
----
-
-# 13. Auto Scaling Group
-
-```text
-[ Add ASG screenshot here ]
-```
-
----
-
-# 14. EC2 Instances
-
-```text
-[ Add EC2 screenshots here ]
-```
-
----
-
-# 15. RDS Database Overview
-
-```text
-[ Add RDS overview screenshot here ]
-```
-
----
-
-# 16. RDS Connectivity & Security
-
-```text
-[ Add RDS connectivity & security screenshot here ]
-```
-
----
-
-# 17. Browser Output
-
-```text
-[ Add ALB browser output screenshot here ]
-```
-
----
-
-# 18. Instance ID Rotation Proof
-
-```text
-[ Add multiple browser refresh screenshots here ]
-```
-
----
-
-# 19. EC2 Without Public IP
-
-```text
-[ Add EC2 private IP screenshot here ]
-```
-
----
-
-# 20. Terraform Destroy
-
-```text
-[ Add terraform destroy screenshot here ]
-```
+# 9. Instance ID Rotation Proof
+<img width="986" height="280" alt="Screenshot 2026-05-28 155909" src="https://github.com/user-attachments/assets/5722be3c-270b-4300-b194-6a04d8ccc36b" />
 
 ---
 
@@ -682,25 +568,6 @@ Never commit:
 * `.pem`
 * secrets
 * provider binaries
-
----
-
-# Recommended .gitignore
-
-```gitignore
-# Terraform
-.terraform/
-*.tfstate
-*.tfstate.*
-crash.log
-
-# Sensitive Files
-*.pem
-*.tfvars
-
-# Terraform Lock File
-.terraform.lock.hcl
-```
 
 ---
 
