@@ -322,101 +322,67 @@ This architecture pattern is commonly used for:
 
 # Screenshots
 
-## Terraform Backend
-
-*Add screenshots here*
-
-## Terraform Apply
-
-*Add screenshots here*
-
+## Terraform Backend 
 ## S3 State File
-
-*Add screenshots here*
+<img width="1919" height="379" alt="Screenshot 2026-05-29 181618" src="https://github.com/user-attachments/assets/6a07aed3-3932-4553-b3a6-41d44c613dd8" />
 
 ## DynamoDB State Lock
+<img width="1897" height="731" alt="Screenshot 2026-05-29 181631" src="https://github.com/user-attachments/assets/3362600c-0429-462d-b583-d6ba51c25054" />
 
-*Add screenshots here*
+---
 
-## VPC
+# EKS Infrastructure
+## Terraform Apply
+<img width="1199" height="195" alt="Screenshot 2026-05-29 172444" src="https://github.com/user-attachments/assets/67c5da08-9f6d-42d5-a81a-614ea1acb059" />
 
-*Add screenshots here*
-
-## Public Subnets
-
-*Add screenshots here*
-
-## Private Subnets
-
-*Add screenshots here*
-
-## Internet Gateway
-
-*Add screenshots here*
-
-## NAT Gateway
-
-*Add screenshots here*
-
-## Route Tables
-
-*Add screenshots here*
+## VPC - Resource Map
+<img width="1919" height="760" alt="Screenshot 2026-05-29 172703" src="https://github.com/user-attachments/assets/e31771ae-4ad2-42dd-8c13-e6677e7855e4" />
 
 ## IAM Roles
-
-*Add screenshots here*
+<img width="1890" height="360" alt="Screenshot 2026-05-29 172856" src="https://github.com/user-attachments/assets/83d116ed-2f47-4b14-abf5-d0970902cba6" />
+<img width="1919" height="681" alt="Screenshot 2026-05-29 183232" src="https://github.com/user-attachments/assets/7ef5704c-b83f-49c4-8929-7a49da65ab69" />
 
 ## EKS Cluster
-
-*Add screenshots here*
+<img width="1914" height="262" alt="Screenshot 2026-05-29 172948" src="https://github.com/user-attachments/assets/618c15c3-b9bb-4726-b34b-7c96b84a8107" />
 
 ## EKS Node Group
+<img width="1919" height="737" alt="Screenshot 2026-05-29 173958" src="https://github.com/user-attachments/assets/823d5c4f-f2fa-41eb-a917-aa7873c8841d" />
 
-*Add screenshots here*
-
-## Worker Nodes
-
-*Add screenshots here*
+# Worker Nodes
+<img width="1919" height="292" alt="Screenshot 2026-05-29 173137" src="https://github.com/user-attachments/assets/5e406a25-17f3-419f-8085-88d2b5f1fb7d" />
 
 ## kubectl get nodes
-
-*Add screenshots here*
+<img width="1256" height="170" alt="Screenshot 2026-05-29 173633" src="https://github.com/user-attachments/assets/7cb478cb-2706-4905-ab8f-e698f15c1eec" />
 
 ## NGINX Deployment
-
-*Add screenshots here*
-
-## kubectl get deployments
-
-*Add screenshots here*
-
-## kubectl get pods
-
-*Add screenshots here*
+ - kubectl get deployments
+ - kubectl get pods
+<img width="1404" height="317" alt="Screenshot 2026-05-29 180650" src="https://github.com/user-attachments/assets/df497307-c9d6-4624-a8fc-ed1c10dd3b61" />
 
 ## kubectl get pods -o wide
-
-*Add screenshots here*
+<img width="1789" height="108" alt="Screenshot 2026-05-29 180816" src="https://github.com/user-attachments/assets/02a5dea8-bcfa-4b86-affe-acea9ca020b5" />
 
 ## kubectl get services
-
-*Add screenshots here*
+<img width="1813" height="161" alt="Screenshot 2026-05-29 181028" src="https://github.com/user-attachments/assets/6f376c77-60aa-49cc-8859-e292392de23a" />
 
 ## AWS Load Balancer
-
-*Add screenshots here*
+<img width="1670" height="208" alt="Screenshot 2026-05-29 181306" src="https://github.com/user-attachments/assets/be2ae02a-6f8a-4dc4-8de3-e6c5036cdd27" />
+<img width="1913" height="370" alt="Screenshot 2026-05-29 181823" src="https://github.com/user-attachments/assets/1fa39276-26b1-4683-a4b0-9c949c4b11e9" />
 
 ## Browser Output
-
-*Add screenshots here*
+<img width="1373" height="591" alt="Screenshot 2026-05-29 181130" src="https://github.com/user-attachments/assets/e71f82df-3be2-4eeb-b743-5be52798eec7" />
 
 ## kubectl get all
+<img width="1777" height="368" alt="Screenshot 2026-05-29 181203" src="https://github.com/user-attachments/assets/5ca01c56-f9e0-4c18-bb6d-b9a83d397a9a" />
 
-*Add screenshots here*
+## kubectl describe deployment nginx-deployment.yaml
+<img width="1349" height="859" alt="Screenshot 2026-05-29 182009" src="https://github.com/user-attachments/assets/263a08cc-4d8c-4ef3-806d-55ecaf36c6a4" />
 
-## Terraform Destroy
+## kubectl describe service nginx-service.yaml
+<img width="1817" height="657" alt="Screenshot 2026-05-29 182020" src="https://github.com/user-attachments/assets/ae89ba45-497c-4b07-864d-2e05abc262ef" />
 
-*Add screenshots here*
+## Architecture Reference
+<img width="1536" height="1024" alt="Terraform Provisioned AWS EKS" src="https://github.com/user-attachments/assets/09227ecc-9c02-41ba-a36c-4b208f2af177" />
 
 ---
 
