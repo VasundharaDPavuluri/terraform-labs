@@ -1,0 +1,50 @@
+# Terraform
+
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+crash.log
+
+# Terraform Variables
+
+*.tfvars
+!terraform.tfvars.example
+
+# Environment Files
+
+.env
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Java
+
+backend/target/
+
+# Maven
+
+.mvn/
+
+# Docker
+
+*.tar
+
+# Kubernetes
+
+kubeconfig
+
+# Jenkins
+
+jenkins_home/
