@@ -19,7 +19,8 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: 225989367272.dkr.ecr.ap-south-1.amazonaws.com/project-18-frontend:v1
+       # image: 225989367272.dkr.ecr.ap-south-1.amazonaws.com/project-18-frontend:v1 -- harcoded
+        image: 225989367272.dkr.ecr.ap-south-1.amazonaws.com/project-18-frontend:latest
 
         ports:
         - containerPort: 80
