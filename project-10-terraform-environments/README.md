@@ -13,7 +13,7 @@ using:
 - Different `.tfvars` files
 
 ### Note: 
-This project demonstrates tfvars-based environment configuration and intentionally highlights the limitations of using a shared state file.
+This project demonstrates tfvars-based environment configuration and intentionally highlights the limitations of using a shared state file. Project-19 is real-time.
 
 ---
 
