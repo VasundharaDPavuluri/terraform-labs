@@ -558,23 +558,6 @@ By completing this project, you will understand:
 
 ---
 
-## Common Interview Questions
-
-1. Why use Terraform Modules?
-2. Difference between Root Modules and Child Modules?
-3. Why store Terraform state remotely?
-4. Why use DynamoDB with Terraform?
-5. Why deploy EKS worker nodes in private subnets?
-6. Difference between Internet Gateway and NAT Gateway?
-7. How do Terraform modules communicate?
-8. How do you manage multiple environments?
-9. What are Terraform Outputs?
-10. How does Terraform State Locking work?
-11. What resources are required for EKS?
-12. How do Managed Node Groups work?
-
----
-
 ## Real-World Considerations
 
 ### Production Improvements
@@ -612,7 +595,3 @@ By completing this project, you will understand:
 
 ---
 
-```
-
-**One suggestion:** since this is a Terraform-only project right now, remove all references to "CI/CD Pipeline" from the top architecture diagram until you actually add GitHub Actions or Jenkins in a future project. That keeps the README technically accurate during interviews.
-```
