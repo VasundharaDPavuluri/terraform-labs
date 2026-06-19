@@ -11,6 +11,9 @@ The project focuses on solving one of the most important Terraform challenges:
 environment state isolation
 ```
 
+### Note: 
+This project demonstrates tfvars-based environment configuration and intentionally highlights the limitations of using a shared state file. One solution is Terraform workspaces. Project-19 is one more real-time solution.
+
 ---
 
 # Project Objective
