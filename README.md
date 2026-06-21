@@ -12,7 +12,7 @@ This repository contains real-world inspired labs and projects covering:
 * Kubernetes & Amazon EKS
 * CI/CD with Jenkins
 * GitHub Integration & Automation
-* Networking & Security
+* Networking & Security 
 * DevOps Best Practices
 
 The goal of this repository is to move beyond theory and build production-style solutions through practical implementation and troubleshooting.
