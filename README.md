@@ -2,7 +2,7 @@
 
 A collection of hands-on DevOps, Cloud, Infrastructure as Code (IaC), Kubernetes, CI/CD, and AWS projects built to gain practical experience in designing, automating, and operating cloud-native platforms.
 
-## About
+## About 
 
 This repository contains real-world inspired labs and projects covering:
 
