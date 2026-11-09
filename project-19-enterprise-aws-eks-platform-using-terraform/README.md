@@ -580,7 +580,7 @@ By completing this project, you will understand:
 
 ---
 
-## Future Enhancements
+## Future Enhancements 
 
 * AWS Load Balancer Controller
 * ExternalDNS
